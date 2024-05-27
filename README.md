@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Huseyin. I'd gratuaded from IT and programmer school that named "Mehmet Rıfat Evyap"  and  I am student in Computer Programming branch of the Dokuz Eylül University/Turkia <br><br>I'd worked as Web Scraper with Python programming language.<br><br>I am currently keen on Data Science and Machine Learning.
+My name is Huseyin. I'd gratuaded from IT and programmer school that named "Mehmet Rıfat Evyap"  and  I am student in Computer Programming branch of the Dokuz Eylül University/Turkiye <br><br>I'd worked as Web Scraper with Python programming language.<br><br>I am currently keen on Data Science and Machine Learning.
 
 
 ## 🌐 Socials:
