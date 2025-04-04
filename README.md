@@ -1,5 +1,9 @@
 # 💫 About Me:
-My name is Huseyin. I'd gratuaded from IT and programmer school that named "Mehmet Rıfat Evyap" and I am student in Computer Programming branch of the Dokuz Eylül University/Turkiye<br><br>I'd worked as Web Scraper with Python programming language.<br><br>I am fond of on Data Science, Machine Learning and Deep Learning.
+Hello, my name is Huseyin Battal. I currently reside in Istanbul's Kagithane district. I am enrolled as a distance student at Dokuz Eylul University pursuing Computer Programming.  
+
+I also graduated from the Vocational High School Information Technologies department. This course gave me a wealth of knowledge about computers and IT systems. I am proficient in C#, Python and basic web-based programming languages. 
+
+Outside of work, 3D modelling, game development and gaming are my favourite activities. I enjoy exploring new places and researching technological advancements relevant to my field. Meeting new people is always a pleasure. I value discipline and aim to perform my duties to the best of my ability as it results in personal growth, which is essential for society's progression.  Continuous self-improvement is something I actively pursue. 
 
 
 ## 🌐 Socials:
