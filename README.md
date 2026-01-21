@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello, my name is Huseyin Battal. I currently reside in Istanbul's Kagithane district. I am enrolled as a distance student at Dokuz Eylul University pursuing Computer Programming.  
+Hello, my name is Huseyin Battal. I currently reside in Istanbul's Kagithane district.
 
 I also graduated from the Vocational High School Information Technologies department. This course gave me a wealth of knowledge about computers and IT systems. I am proficient in C#, Python and basic web-based programming languages. 
 
-Outside of work, 3D modelling, game development and gaming are my favourite activities. I enjoy exploring new places and researching technological advancements relevant to my field. Meeting new people is always a pleasure. I value discipline and aim to perform my duties to the best of my ability as it results in personal growth, which is essential for society's progression.  Continuous self-improvement is something I actively pursue. 
+Outside of work, I enjoy exploring new places and researching technological advancements relevant to my field. I value discipline and aim to perform my duties to the best of my ability as it results in personal growth, which is essential for society's progression.  Continuous self-improvement is something I actively pursue. 
 
 
 ## 🌐 Socials:
