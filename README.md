@@ -1,11 +1,11 @@
 # 💫 About Me:
-Greetings, my name is Huseyin Battal. I'm currently residing on Istanbul/European Side.
+Hi, I'm Huseyin Battal. I'm currently living on the European Side of Istanbul.
 
-Your Fullstack WEB Developer.
+Your full-stack web developer.
 
-I'm founder of <a href="https://www.cozumce.com">cozumce.com</a> which is personal blog and tool share platform and Software Developer of <a href="https://kinectra.up.railway.app">kinectra.com</a> which is physhicoterapy platform that analyzes and prints report about end-users' physhicological situations that are developed and published by me. 
+I'm the founder of <a href="https://www.cozumce.com">Çözümce</a>, a personal blog and tool share platform. I'm also a software developer of <a href="https://kinectra.up.railway.app">Kinectra</a>, a physical therapy platform that analyses and prints reports about end-users' physiological situations. 
 
-I've used to fond of the LLM and Machine Learning development. Feel free to ask any questions about machine learning and deep learning stuffs.
+I'm fond of LLM and machine learning development. Feel free to ask me any questions about machine learning and deep learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/huseyin-battal/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/huseyinbattal) 
