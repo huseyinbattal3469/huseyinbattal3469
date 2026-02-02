@@ -1,10 +1,11 @@
 # 💫 About Me:
-Hello, my name is Huseyin Battal. I currently reside in Istanbul's Kagithane district.
+Greetings, my name is Huseyin Battal. I'm currently residing on Istanbul/European Side.
 
-I also graduated from the Vocational High School Information Technologies department. This course gave me a wealth of knowledge about computers and IT systems. I am proficient in C#, Python and basic web-based programming languages. 
+Your Fullstack WEB Developer.
 
-Outside of work, I enjoy exploring new places and researching technological advancements relevant to my field. I value discipline and aim to perform my duties to the best of my ability as it results in personal growth, which is essential for society's progression.  Continuous self-improvement is something I actively pursue. 
+I'm founder of <a href="https://www.cozumce.com">cozumce.com</a> which is personal blog and tool share platform and Software Developer of <a href="https://kinectra.up.railway.app">kinectra.com</a> which is physhicoterapy platform that analyzes and prints report about end-users' physhicological situations that are developed and published by me. 
 
+I've used to fond of the LLM and Machine Learning development. Feel free to ask any questions about machine learning and deep learning stuffs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/huseyin-battal/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/huseyinbattal) 
