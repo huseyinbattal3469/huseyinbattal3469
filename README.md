@@ -18,6 +18,6 @@ I'm fond of LLM and machine learning development. Feel free to ask me any questi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-battal&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=huseyin-battal&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=huseyin-battal&icon=0&color=0)](https://visitcount.itsvg.in)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
