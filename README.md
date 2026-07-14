@@ -16,8 +16,8 @@ I'm fond of LLM and machine learning development. Feel free to ask me any questi
 ## 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=huseyin-battal&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=huseyin-battal&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox_light)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=huseyin-battal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Most Used Languages
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=huseyin-battal&layout=compact&langs_count=10&disable_animations=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api/top-langs?username=huseyin-battal&layout=compact&langs_count=10&disable_animations=true&theme=gruvbox_light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=huseyin-battal&limit=5&theme=dark&combine_all_yearly_contributions=true)
