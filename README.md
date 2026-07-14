@@ -22,6 +22,4 @@ I'm fond of LLM and machine learning development. Feel free to ask me any questi
 ## ⏲️ Working Time
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=baab996f-ba44-400b-bea6-bccd8fb81607&hide_title=true&langs_count=6&disable_animations=true&display_format=percent&theme=gruvbox_light)](https://wakatime.com/@baab996f-ba44-400b-bea6-bccd8fb81607)
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=huseyin-battal&abbreviated=true)
