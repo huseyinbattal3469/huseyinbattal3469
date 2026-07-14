@@ -20,7 +20,7 @@ I'm fond of LLM and machine learning development. Feel free to ask me any questi
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=huseyin-battal&layout=compact&hide_title=true&langs_count=10&disable_animations=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api/top-langs?username=huseyin-battal&layout=compact&hide_title=true&langs_count=10&disable_animations=true&theme=gruvbox_light)
 
 ### ⏲️ Working Time
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=baab996f-ba44-400b-bea6-bccd8fb81607l&hide_title=true&langs_count=6&disable_animations=true&display_format=percent&theme=gruvbox_light)](https://wakatime.com/@baab996f-ba44-400b-bea6-bccd8fb81607)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=baab996f-ba44-400b-bea6-bccd8fb81607&hide_title=true&langs_count=6&disable_animations=true&display_format=percent&theme=gruvbox_light)](https://wakatime.com/@baab996f-ba44-400b-bea6-bccd8fb81607)
 ---
 [![](https://visitcount.itsvg.in/api?id=huseyin-battal&icon=0&color=0)](https://visitcount.itsvg.in)
 
